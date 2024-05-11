@@ -22,7 +22,7 @@ service:
   TokenPassWd: go
 redis:
   host: 127.0.0.1:6379
-  password: 6378
+  password: 
   db: 0
   Proxy2layerQueueName: proxy2layer
   Layer2proxyQueueName: Layer2proxy
