@@ -48,7 +48,7 @@ mysql:
   port: 3306
   user: root
   pwd: 123456
-  db: sk-admin
+  db: user
 
 trace:
   host: 127.0.0.1
