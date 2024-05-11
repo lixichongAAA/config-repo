@@ -8,6 +8,7 @@ auth:
 
 redis:
   host: localhost
+  port: 6479
   password: 6378
   db: 0
   proxy2layer_queue_name: name
